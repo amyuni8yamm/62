@@ -1,0 +1,65 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: monospace;
+    font-weight: 250;
+}
+
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: #ADADC9
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#games {
+    width: 100%;
+    height: 450px;
+    background-color: #C5C6D0
+}
+
+img {
+    width: 220px;
+    height: 220px
+}
+
+#games {
+    width: 100%;
+    height: 800px;
+    background-color: #C5C6D0
+}
+
+img {
+    width: 220px;
+    height: 220px
+}
+
+#myCarousel {
+    background-color: #c1bbdd;
+}
+
+.container {
+    text-align: center;
+
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px04;
+}
